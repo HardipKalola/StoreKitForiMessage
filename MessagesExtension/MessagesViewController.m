@@ -9,8 +9,7 @@
 #import "MessagesViewController.h"
 
 
-//#define in_app_id  @"your product identifier"
-#define in_app_id  @"com.spaceodigicom.monogrammaker.all"
+#define in_app_id  @"your product identifier"
 
 
 @interface MessagesViewController ()<SKProductsRequestDelegate,SKPaymentTransactionObserver>

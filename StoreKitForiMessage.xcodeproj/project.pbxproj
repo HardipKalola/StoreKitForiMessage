@@ -361,7 +361,7 @@
 				DEVELOPMENT_TEAM = B5CET962M5;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.spaceodigicom.monogrammaker.MessagesExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xyz.MessagesExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d4bad16b-989f-489f-8142-9b9daa63ecb0";
 				PROVISIONING_PROFILE_SPECIFIER = Gab_WildCard_21Sep;
@@ -376,7 +376,7 @@
 				DEVELOPMENT_TEAM = B5CET962M5;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.spaceodigicom.monogrammaker.MessagesExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xyz.MessagesExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d4bad16b-989f-489f-8142-9b9daa63ecb0";
 				PROVISIONING_PROFILE_SPECIFIER = Gab_WildCard_21Sep;
@@ -390,7 +390,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = B5CET962M5;
 				INFOPLIST_FILE = StoreKitForiMessage/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.spaceodigicom.monogrammaker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xyz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d4bad16b-989f-489f-8142-9b9daa63ecb0";
 				PROVISIONING_PROFILE_SPECIFIER = Gab_WildCard_21Sep;
@@ -403,7 +403,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = B5CET962M5;
 				INFOPLIST_FILE = StoreKitForiMessage/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.spaceodigicom.monogrammaker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xyz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d4bad16b-989f-489f-8142-9b9daa63ecb0";
 				PROVISIONING_PROFILE_SPECIFIER = Gab_WildCard_21Sep;
