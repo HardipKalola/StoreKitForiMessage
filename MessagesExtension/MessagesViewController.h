@@ -2,8 +2,8 @@
 //  MessagesViewController.h
 //  MessagesExtension
 //
-//  Created by SOTSYS113 on 12/12/16.
-//  Copyright © 2016 SOTSYS113. All rights reserved.
+//  Created by Hardip Kalola on 12/12/16.
+//  Copyright © 2016 Hardip Kalola. All rights reserved.
 //
 
 #import <Messages/Messages.h>
