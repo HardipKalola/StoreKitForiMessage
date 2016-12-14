@@ -22,8 +22,6 @@
     NSString *currentIdentifier;
     NSString *productPrice;
     NSArray *products;
-
-
 }
 @end
 
